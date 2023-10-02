@@ -3,7 +3,7 @@
 
 1. Ensure that you have Visual Studio or another compatible C# IDE installed on your compute
 2. download the source code files.
-3. Open the solution file (final-proj-flood-fill-cc211049-Janosi.sln) in Visual Studio or your preferred C# IDE.
+3. Open the solution file (.sln) in Visual Studio or your preferred C# IDE.
 
 # Running the Program
 1. Open the input.txt file in the solution explorer and input the grid you wish to fill, use the letter "s" to mark the starting position.
