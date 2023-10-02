@@ -1,0 +1,15 @@
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\bin\Debug\net6.0\Assignment2CsongorJanosi.exe
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\bin\Debug\net6.0\Assignment2CsongorJanosi.deps.json
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\bin\Debug\net6.0\Assignment2CsongorJanosi.runtimeconfig.json
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\bin\Debug\net6.0\Assignment2CsongorJanosi.dll
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\bin\Debug\net6.0\Assignment2CsongorJanosi.pdb
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\Assignment2CsongorJanosi.csproj.AssemblyReference.cache
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\Assignment2CsongorJanosi.GeneratedMSBuildEditorConfig.editorconfig
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\Assignment2CsongorJanosi.AssemblyInfoInputs.cache
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\Assignment2CsongorJanosi.AssemblyInfo.cs
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\Assignment2CsongorJanosi.csproj.CoreCompileInputs.cache
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\Assignment2CsongorJanosi.dll
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\refint\Assignment2CsongorJanosi.dll
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\Assignment2CsongorJanosi.pdb
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\Assignment2CsongorJanosi.genruntimeconfig.cache
+D:\hazi\FHSTP\Semester_4\C-Sharp Development\Lectures\Lecture4\Assignment2CsongorJanosi\obj\Debug\net6.0\ref\Assignment2CsongorJanosi.dll
